@@ -6,6 +6,8 @@
 
 Following The Odin Project, here is a recipe website implementing various freshly taught HTML, git, and GitHub skills. 
 
+#### Link: https://adrianoles.github.io/odin-recipes/
+
 ### Tags and Git Commands Used:
 - `<img>`
 - `<ol>`
